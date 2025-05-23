@@ -1,0 +1,6 @@
+appId: com.adam.tyler.launchargstest
+---
+- launchApp:
+    arguments:
+      param: "HELLO"
+      param2: "Adam"
