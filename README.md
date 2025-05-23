@@ -22,4 +22,5 @@ Make sure you have Maestro CLI installed locally: [instructions here](https://do
 
 Maestro currently doesn't allow you to select the platform with a CLI command, so only open one of either the simulator or emulator when you want to test.
 
-Run `maestro test .maestro/flow.yaml`
+1. Start you metro server and install the apps to the device (see steps 1-3 above)
+2. Run `maestro test .maestro/flow.yaml`
