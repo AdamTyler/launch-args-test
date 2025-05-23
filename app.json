@@ -2,6 +2,12 @@
   "expo": {
     "name": "launch-args-test",
     "slug": "launch-args-test",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "android": {
+      "package": "com.adam.tyler.launchargstest"
+    },
+    "ios": {
+      "bundleIdentifier": "com.adam.tyler.launchargstest"
+    }
   }
 }
